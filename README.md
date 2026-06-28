@@ -1,4 +1,13 @@
 # 🎓 Laravel CRUD Application
+<p align="center">
+<a href="https://laravelcrud.rf.gd">
+<img src="https://img.shields.io/badge/🌐_Live_Website-Visit_Now-00C853?style=for-the-badge">
+</a>
+
+<a href="https://github.com/vinit401/laravelCrud">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0D6EFD&center=true&vCenter=true&width=700&lines=Laravel+12+CRUD+Application;Eloquent+ORM+%7C+MySQL+%7C+Blade;Responsive+Student+Management+System" alt="Typing SVG" />
