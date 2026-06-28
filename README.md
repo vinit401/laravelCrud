@@ -106,7 +106,6 @@ Through this project I learned:
 
 ## 🏠 Student Registration
 
-## 🏠 Student Registration
 
 <p align="center">
   <img src="Screenshots/home.png" width="850" alt="Student Registration">
