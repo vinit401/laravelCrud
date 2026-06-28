@@ -106,30 +106,22 @@ Through this project I learned:
 
 ## 🏠 Student Registration
 
-<p align="center">
-  <img src="./screenshots/home.png" width="850">
-</p>
+## 🏠 Student Registration
 
----
+<p align="center">
+  <img src="Screenshots/home.png" width="850" alt="Student Registration">
+</p>
 
 ## 📋 Student List
 
 <p align="center">
-  <img src="./screenshots/student-list.png" width="850">
+  <img src="Screenshots/student-list.png" width="850" alt="Student List">
 </p>
-
----
 
 ## ✏️ Edit Student
 
 <p align="center">
-  <img src="./screenshots/edit-student.png" width="850">
-</p>
-
-## ✏️ home Student
-
-<p align="center">
-  <img src="./screenshots/home.png" width="850">
+  <img src="Screenshots/edit.png" width="850" alt="Edit Student">
 </p>
 
 ---
